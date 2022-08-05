@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+    
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background:hsl(225, 100%, 94%);
+    
+}
+section{
+    margin: auto;
+    background: #ffffff;
+    width: 330px;
+    height: 570px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.hero{
+    
+    width:330px;
+    border-radius: 15px 15px 0 0;
+    margin-bottom: -5px;
+}
+h1{
+    color:hsl(223, 47%, 23%);
+    padding: 30px 0 10px 0;
+    font-weight: 900;
+    font-size: 22px;
+}
+.texto1{
+    color:hsl(220, 15%, 55%);
+    line-height: 1.5;
+    padding: 5px 30px 25px 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.caixa {
+    display: flex;
+    background: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    width: 280px;
+    height: 80px;
+    margin: auto;
+    padding: 20px 15px;
+}
+.music{
+    width: 48px;
+    height: 48px;
+}
+.texto2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 35px 0 20px;
+    line-height: 1.5;
+    font-size: 14px;
+    font-weight: 700;
+}
+.preço{
+    color: hsl(220, 15%, 55%);
+}
+.caixa a {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    font-weight: 900;
+    padding-left: 15px;
+}
+.caixa a:hover{
+    text-decoration: none;
+    color: green;
+}
+.botao {
+    display: block;
+    text-decoration: none;
+    background-color: hsl(245, 75%, 52%) ;
+    color: white;
+    padding: 15px;
+    width: 280px;
+    font-size: 15px;
+    border-radius: 15px;
+    margin: 25px auto;
+    font-weight: 700;
+}
+.botao:hover{
+    color: greenyellow;
+    background-color: black;
+}
+.cancelar{
+    text-decoration: none;
+    color: hsl(222, 28%, 60%);
+    font-weight: 900;
+    font-size: 15px;
+}
+.cancelar:hover {
+    color: red;
+    background: black;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+
+
