@@ -13,7 +13,6 @@ body{
     background:hsl(225, 100%, 94%);
 }
 .container{
-    margin: auto;
     background: #ffffff;
     max-width: 330px;
     text-align: center;
