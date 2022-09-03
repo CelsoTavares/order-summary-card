@@ -4,7 +4,7 @@
 >São os desafios da vida que nos impulsionam para frente e nos tornam melhores.
 
 Neste desafio foi utilizado o ***display flex***, ***hover*** em 3 botões, desenvolvido com ***HTML*** e ***CSS***.
-- **[Voltar ao topo]**:point_up_2: (https://github.com/CelsoTavares) 
+- **[Voltar ao topo]**(https://github.com/CelsoTavares) 
 - **LINKEDIN** - [Celso Tavares](https://www.linkedin.com/in/celsotavaresjunior/) 
 
 
