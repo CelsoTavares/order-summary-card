@@ -5,6 +5,6 @@
 
 Neste desafio foi utilizado o ***display flex***, ***hover*** em 3 botões, desenvolvido com ***HTML*** e ***CSS***.
 - **GITHUB** - [Celso Tavares](https://github.com/CelsoTavares) 
-- **LINKEDIN** - [Celso Tavares](linkedin.com/in/celsotavaresjunior) 
+- **LINKEDIN** - [Celso Tavares](https://www.linkedin.com/in/celsotavaresjunior/) 
 
 
